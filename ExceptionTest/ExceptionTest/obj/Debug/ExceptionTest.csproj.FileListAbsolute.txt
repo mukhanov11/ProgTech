@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.exe
+c:\users\admin\documents\visual studio 2015\Projects\ExceptionTest\ExceptionTest\bin\Debug\ExceptionTest.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.exe
+c:\users\admin\documents\visual studio 2015\Projects\ExceptionTest\ExceptionTest\obj\Debug\ExceptionTest.pdb
