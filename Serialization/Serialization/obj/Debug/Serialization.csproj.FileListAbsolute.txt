@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.exe
+c:\users\admin\documents\visual studio 2015\Projects\Serialization\Serialization\bin\Debug\Serialization.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Serialization\Serialization\obj\Debug\Serialization.exe
+c:\users\admin\documents\visual studio 2015\Projects\Serialization\Serialization\obj\Debug\Serialization.pdb
