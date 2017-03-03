@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\snakek\snakek\bin\Debug\snakek.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\snakek\snakek\bin\Debug\snakek.exe
+c:\users\admin\documents\visual studio 2015\Projects\snakek\snakek\bin\Debug\snakek.pdb
+c:\users\admin\documents\visual studio 2015\Projects\snakek\snakek\obj\Debug\snakek.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\snakek\snakek\obj\Debug\snakek.exe
+c:\users\admin\documents\visual studio 2015\Projects\snakek\snakek\obj\Debug\snakek.pdb
